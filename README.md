@@ -12,3 +12,6 @@
 - Aplique as migrações para configurar o banco de dados ( python manage.py migrate )
 - Execute ( python manage.py runserver)
 - Acesse o projeto no nagevador usando o link ( http://127.0.0.1:8000/ )
+
+
+<p>Parte responsável pelo envio do email de fato presente na pasta cadastro/views.py </p>
